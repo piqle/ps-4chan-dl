@@ -2,7 +2,7 @@
 powershell script to download images from 4chan.org threads,
 this version is a fork of https://github.com/kumamonishe/ps-4chan-dl with fixes and additional paramaters added in the future
 ## requirements
-1. windows 10
+1. windows 10/11
 2. you may need to change execution policy before using this script. to do so run the powershell console as admin user and run command ```Set-ExecutionPolicy Unrestricted```. change it back to ```Restricted``` or ```RemoteSigned``` after using the script. 
 ## usage
 1. find a cool thread in 4chan.org 
